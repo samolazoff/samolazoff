@@ -13,6 +13,9 @@
   <a href="@samolazoff">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
+ <div id="badges">
+  <img src="https://komarev.com/ghpvc/?username=samolazoff&style=flat-square&color=blue" alt=""/>
+ </div>
 </div>
 <h2>:man_technologist: About me</h2>
 <br>
