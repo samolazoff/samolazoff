@@ -24,7 +24,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-plain.svg" title="WordPress" alt="WP" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" title="MySql" alt="MySql" width="20" height="20"/>
 - I'm constantly developing in the Web. I really like it :desktop_computer:
 - In my free time I read different books both science and classic :books:
-- Today my English level is A1 :slightly_smiling_face:
+- Today my English level is A2 :slightly_smiling_face:
 
 <h2>:hammer_and_wrench: Languages and Tools:</h3>
 <br>
